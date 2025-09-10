@@ -14,7 +14,7 @@ logo = "https://i.imgur.com/UbOXYAU.png"
 st.sidebar.image(logo)
 
 # Customize page title
-st.title("Earth Engine Web App")
+st.title("Earth Engine Web App Demo")
 
 st.markdown(
     """
